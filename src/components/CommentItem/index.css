@@ -1,0 +1,56 @@
+.amber {
+  background-color: #f59e0b;
+}
+
+.blue {
+  background-color: #0b69ff;
+}
+
+.orange {
+  background-color: #f97316;
+}
+
+.emerald {
+  background-color: #10b981;
+}
+
+.teal {
+  background-color: #14b8a6;
+}
+
+.red {
+  background-color: #b91c1c;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+}
+
+/* Write your CSS here */
+.itemContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: flex-start;
+  padding: 10px;
+  margin: 10px;
+}
+.paraDate {
+  padding-left: 50px;
+}
+.surButton {
+  border-radius: 8px;
+  border-style: none;
+  margin-top: 20px;
+  outline: none;
+}
+.nameHeading {
+  font-size: 22px;
+  font-family: 'Roboto';
+  font-weight: 400;
+  padding-left: 10px;
+  margin-left: 10px;
+}
+.deleteButton {
+  margin: 15px;
+}

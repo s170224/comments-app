@@ -1,0 +1,42 @@
+.Container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.detailsContainer {
+  padding: 20px;
+  margin: 20px;
+}
+
+.comment-container {
+  height: 30vh;
+  padding: 10px;
+}
+.comment-input {
+  height: 30vh;
+  width: 40vh;
+}
+
+.input-name {
+  height: 5vh;
+  width: 40vh;
+  padding-left: 10px;
+  margin-left: 10px;
+}
+.button1 {
+  background-color: #0b69ff;
+  color: white;
+}
+.commentPrintContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: flex-start;
+}
+.addCon {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: flex-start;
+}
